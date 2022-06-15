@@ -1,0 +1,32 @@
+#camera
+{
+    position:fixed;
+    bottom:0;
+    width:100px;
+    height:100px;
+    text-align:center;
+    box-shadow: 0 6px 8px 0 rgba(2,2,2,0.2);
+}
+
+img:hover
+{
+    border-radius: 140px;
+}
+
+.image1
+{
+    height:200px;
+    width:200px;
+}
+
+.image2
+{
+    height:200px;
+    width:200px;
+}
+
+.image3
+{
+    height:200px;
+    width:200px;
+}
